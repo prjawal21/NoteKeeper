@@ -21,9 +21,6 @@ Run the initialization script:
 ```bash
 # Windows
 setup-database.bat
-
-# Linux/macOS
-./setup.sh
 ```
 
 ### 3. Start the backend
@@ -151,7 +148,3 @@ For testing purposes, you can use any email and password (minimum 6 characters).
 2. Create a feature branch
 3. Make your changes
 4. Submit a pull request
-
-## License
-
-MIT License
